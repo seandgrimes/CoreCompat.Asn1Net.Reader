@@ -2,6 +2,12 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageLicenseUrl>https://www.apache.org/licenses/LICENSE-2.0</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/seandgrimes/CoreCompat.Asn1Net.Reader</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/seandgrimes/CoreCompat.Asn1Net.Reader</RepositoryUrl>
+    <Authors>peopneska, Sean Grimes</Authors>
+    <Company />
   </PropertyGroup>
 
 </Project>
